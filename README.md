@@ -29,8 +29,7 @@ Aplikasi **Manajemen Data Karyawan** adalah sistem berbasis Windows Forms (WinFo
 - Klik **Bersih** untuk mengosongkan formulir input.
 
 ## Kontributor
-Proyek ini dikembangkan oleh [Nama Anda]. Jika ada pertanyaan atau saran, silakan hubungi melalui email atau platform lainnya.
-Nama Anda - [Profil GitHub Anda](https://github.com/username)
+Ahmad Khoirudin Affandi - [Profil GitHub](https://github.com/username)
 
 ---
 Terima kasih!

@@ -17,9 +17,9 @@ Aplikasi **Manajemen Data Karyawan** adalah sistem berbasis Windows Forms (WinFo
 - **Database:** SQLite
 
 ## Cara Menjalankan Aplikasi
-1. **Clone atau Download** repository proyek ini.
+1. **Clone atau Download** repository ini.
    ```sh
-   git clone https://github.com/username/repo-name.git
+   git clone github.com/akhrdnaffandi/Manajemen-Data-Karyawan.git
    ```
 3. **Buka di Visual Studio** dan pastikan SQLite sudah terinstal.
 4. **Jalankan Aplikasi** dengan menekan tombol **Start** atau `F5`.

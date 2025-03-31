@@ -1,7 +1,7 @@
 # Manajemen Data Karyawan
 
 ## Deskripsi
-Aplikasi **Manajemen Data Karyawan** adalah sistem berbasis Windows Forms (WinForms) menggunakan bahasa pemrograman C# dan database SQLite untuk mentimpan data. Aplikasi ini bertujuan untuk membantu pengelolaan data karyawan dalam sebuah perusahaan, termasuk penyimpanan, pengeditan, penghapusan, dan penampilan data karyawan dalam format tabel.
+Aplikasi **Manajemen Data Karyawan** adalah sistem berbasis Windows Forms (WinForms) menggunakan bahasa pemrograman C# dan database SQLite untuk menyimpan data. Aplikasi ini bertujuan untuk membantu pengelolaan data karyawan dalam sebuah perusahaan, termasuk penyimpanan, pengeditan, penghapusan, dan penampilan data karyawan dalam format tabel.
 
 ## Fitur
 - **Tambah Karyawan**: Menambahkan data karyawan baru ke dalam database.

@@ -1,7 +1,7 @@
 # Manajemen Data Karyawan
 
 ## Deskripsi
-Proyek ini adalah aplikasi Windows Forms berbasis C# yang digunakan untuk mengelola data karyawan. Aplikasi ini memungkinkan pengguna untuk menambahkan, mengedit, menghapus, dan menampilkan data karyawan menggunakan database SQLite.
+Aplikasi **Manajemen Data Karyawan** adalah sistem berbasis Windows Forms (WinForms) menggunakan bahasa pemrograman C# dan database SQLite untuk mentimpan data. Aplikasi ini bertujuan untuk membantu pengelolaan data karyawan dalam sebuah perusahaan, termasuk penyimpanan, pengeditan, penghapusan, dan penampilan data karyawan dalam format tabel.
 
 ## Fitur
 - **Tambah Karyawan**: Menambahkan data karyawan baru ke dalam database.
@@ -12,29 +12,14 @@ Proyek ini adalah aplikasi Windows Forms berbasis C# yang digunakan untuk mengel
 - **Klik Tabel untuk Edit**: Memilih data dari tabel untuk diedit dengan mengklik baris yang diinginkan.
 
 ## Teknologi yang Digunakan
-- **C# .NET (Windows Forms)**: Framework utama untuk membangun aplikasi desktop.
-- **SQLite**: Database yang digunakan untuk menyimpan data karyawan.
-
-## Struktur Database
-Nama tabel: `Karyawan`
-
-| Kolom           | Tipe Data   | Deskripsi                      |
-|----------------|------------|--------------------------------|
-| ID            | INTEGER (PK, AUTOINCREMENT) | ID unik karyawan |
-| Nama          | TEXT        | Nama lengkap karyawan         |
-| Jabatan       | TEXT        | Jabatan karyawan              |
-| Gaji          | REAL        | Gaji karyawan                 |
-| TanggalBergabung | TEXT    | Tanggal mulai bekerja         |
-| Status        | TEXT        | Status karyawan               |
-| Telepon       | TEXT        | Nomor telepon karyawan        |
-| Alamat        | TEXT        | Alamat tempat tinggal         |
-| Email         | TEXT        | Email karyawan                |
+- **Bahasa Pemrograman:** C#
+- **Framework:** .NET Windows Forms
+- **Database:** SQLite
 
 ## Cara Menjalankan Aplikasi
 1. **Clone atau Download** repository proyek ini.
-2. **Buka proyek** menggunakan Visual Studio.
-3. **Pastikan SQLite Database sudah terpasang**.
-4. **Jalankan aplikasi** dengan menekan tombol `Start` di Visual Studio.
+2. **Buka di Visual Studio** dan pastikan SQLite sudah terinstal.
+3. **Jalankan Aplikasi** dengan menekan tombol **Start** atau `F5`.
 
 ## Penggunaan
 - Masukkan data karyawan pada formulir yang tersedia.
@@ -47,5 +32,5 @@ Nama tabel: `Karyawan`
 Proyek ini dikembangkan oleh [Nama Anda]. Jika ada pertanyaan atau saran, silakan hubungi melalui email atau platform lainnya.
 
 ---
-Terima kasih telah menggunakan aplikasi ini! 🚀
+Terima kasih!
 

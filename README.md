@@ -25,7 +25,7 @@ Nama tabel: `Karyawan`
 | Jabatan       | TEXT        | Jabatan karyawan              |
 | Gaji          | REAL        | Gaji karyawan                 |
 | TanggalBergabung | TEXT    | Tanggal mulai bekerja         |
-| Status        | TEXT        | Status karyawan (aktif/nonaktif) |
+| Status        | TEXT        | Status karyawan               |
 | Telepon       | TEXT        | Nomor telepon karyawan        |
 | Alamat        | TEXT        | Alamat tempat tinggal         |
 | Email         | TEXT        | Email karyawan                |

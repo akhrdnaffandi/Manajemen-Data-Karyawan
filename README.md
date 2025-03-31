@@ -30,6 +30,7 @@ Aplikasi **Manajemen Data Karyawan** adalah sistem berbasis Windows Forms (WinFo
 
 ## Kontributor
 Proyek ini dikembangkan oleh [Nama Anda]. Jika ada pertanyaan atau saran, silakan hubungi melalui email atau platform lainnya.
+Nama Anda - [Profil GitHub Anda](https://github.com/username)
 
 ---
 Terima kasih!

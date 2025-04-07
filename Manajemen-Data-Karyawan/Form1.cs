@@ -100,7 +100,6 @@ namespace Manajemen_Data_Karyawan
                 {
                     conn.Open();
 
-                    // Hapus data berdasarkan ID yang dipilih
                     string query = "DELETE FROM Karyawan WHERE ID=@ID";
                     using (SQLiteCommand cmd = new SQLiteCommand(query, conn))
                     {
@@ -108,7 +107,6 @@ namespace Manajemen_Data_Karyawan
                         cmd.ExecuteNonQuery();
                     }
 
-                    // Periksa apakah tabel kosong, lalu reset AUTOINCREMENT jika kosong
                     string checkQuery = "SELECT COUNT(*) FROM Karyawan";
                     using (SQLiteCommand cmd = new SQLiteCommand(checkQuery, conn))
                     {

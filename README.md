@@ -5,6 +5,7 @@ Aplikasi **Manajemen Data Karyawan** adalah sistem berbasis Windows Forms (WinFo
 
 ## Desain Mockup
 ![Screenshot (122)](https://github.com/user-attachments/assets/04dab32e-109e-49d7-8fb6-8bb7fc425fbf)
+
 ![Screenshot (124)](https://github.com/user-attachments/assets/59f3c39e-34dd-42f6-ad17-ef87d93c3a8b)
 
 

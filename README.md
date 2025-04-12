@@ -11,19 +11,6 @@ Aplikasi **Manajemen Data Karyawan** adalah sistem berbasis Windows Forms (WinFo
 - **Pembersihan Formulir**: Membersihkan semua inputan pada formulir untuk entri baru.
 - **Klik Tabel untuk Edit**: Memilih data dari tabel untuk diedit dengan mengklik baris yang diinginkan.
 
-## Teknologi yang Digunakan
-- **Bahasa Pemrograman:** C#
-- **Framework:** .NET Windows Forms
-- **Database:** SQLite
-
-## Cara Menjalankan Aplikasi
-1. **Clone atau Download** repository ini.
-   ```sh
-   git clone github.com/akhrdnaffandi/Manajemen-Data-Karyawan.git
-   ```
-3. **Buka di Visual Studio** dan pastikan SQLite sudah terinstal.
-4. **Jalankan Aplikasi** dengan menekan tombol **Start** atau `F5`.
-
 ## Penggunaan
 - Masukkan data karyawan pada formulir yang tersedia.
 - Klik **Simpan** untuk menyimpan data baru.

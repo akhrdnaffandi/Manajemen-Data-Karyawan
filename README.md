@@ -10,10 +10,8 @@ Aplikasi **Manajemen Data Karyawan** adalah sistem berbasis Windows Forms (WinFo
 
 ![Screenshot (158)](https://github.com/user-attachments/assets/713263d9-89a5-4408-91a7-0f720b27cc85)
 
-
-
-
 ## Fitur
+- **Login**: Untuk memverifikasi admin yang bertugas.
 - **Tambah Karyawan**: Menambahkan data karyawan baru ke dalam database.
 - **Edit Karyawan**: Mengedit informasi karyawan yang sudah ada.
 - **Hapus Karyawan**: Menghapus data karyawan dari database.
@@ -22,6 +20,7 @@ Aplikasi **Manajemen Data Karyawan** adalah sistem berbasis Windows Forms (WinFo
 - **Klik Tabel untuk Edit**: Memilih data dari tabel untuk diedit dengan mengklik baris yang diinginkan.
 
 ## Penggunaan
+- masukkan username dan password yang terdaftar.
 - Masukkan data karyawan pada formulir yang tersedia.
 - Klik **Simpan** untuk menyimpan data baru.
 - Pilih baris pada tabel dan klik **Edit** untuk memperbarui informasi.

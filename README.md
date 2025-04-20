@@ -20,7 +20,7 @@ Aplikasi **Manajemen Data Karyawan** adalah sistem berbasis Windows Forms (WinFo
 - **Klik Tabel untuk Edit**: Memilih data dari tabel untuk diedit dengan mengklik baris yang diinginkan.
 
 ## Penggunaan
-- masukkan username dan password yang terdaftar.
+- masukkan username dan password yang sudah terdaftar, kemudian klik **Login**.
 - Masukkan data karyawan pada formulir yang tersedia.
 - Klik **Simpan** untuk menyimpan data baru.
 - Pilih baris pada tabel dan klik **Edit** untuk memperbarui informasi.

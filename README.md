@@ -4,9 +4,10 @@
 Aplikasi **Manajemen Data Karyawan** adalah sistem berbasis Windows Forms (WinForms) menggunakan bahasa pemrograman C# dan database SQLite untuk menyimpan data. Aplikasi ini bertujuan untuk membantu pengelolaan data karyawan dalam sebuah perusahaan, termasuk penyimpanan, pengeditan, penghapusan, dan penampilan data karyawan dalam format tabel.
 
 ## Desain Mockup
-![Screenshot (122)](https://github.com/user-attachments/assets/04dab32e-109e-49d7-8fb6-8bb7fc425fbf)
+![Screenshot (157)](https://github.com/user-attachments/assets/56768d0f-f84f-4e6d-b687-3ac3be52e965)
+![Screenshot (158)](https://github.com/user-attachments/assets/713263d9-89a5-4408-91a7-0f720b27cc85)
+![Screenshot (159)](https://github.com/user-attachments/assets/cce27952-9794-4b66-9465-9dadbd3a1f8a)
 
-![Screenshot (124)](https://github.com/user-attachments/assets/59f3c39e-34dd-42f6-ad17-ef87d93c3a8b)
 
 
 ## Fitur

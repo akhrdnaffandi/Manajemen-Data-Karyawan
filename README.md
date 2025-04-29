@@ -22,9 +22,9 @@ Aplikasi **Manajemen Data Karyawan** adalah sistem berbasis Windows Forms (WinFo
 - **Klik Tabel untuk Edit**: Memilih data dari tabel untuk diedit dengan mengklik baris yang diinginkan.
 
 ## Teknologi yang Digunakan
-- **Bahasa Pemrograman:** C#
-- **Framework:** .NET Windows Forms
-- **Database:** MySQL
+- **Bahasa Pemrograman:** ```sh C# ```
+- **Framework:** ```sh .NET Windows Forms ```
+- **Database:** ```sh MySQL ```
 
 ## Cara Menjalankan Aplikasi
 1. **Clone atau Download** repository ini.
@@ -45,7 +45,7 @@ Aplikasi **Manajemen Data Karyawan** adalah sistem berbasis Windows Forms (WinFo
 - klik **Tutup** jika ingin keluar dari form input data.
 
 ## Kontributor
-Ahmad Khoirudin Affandi - [Profil GitHub](https://github.com/akhrdnaffandi)
+```sh Ahmad Khoirudin Affandi ``` - [Profil GitHub](https://github.com/akhrdnaffandi)
 
 ---
 Terima kasih!
